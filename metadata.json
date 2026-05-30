@@ -1,0 +1,6 @@
+{
+  "name": "Enhanced DemoTool",
+  "description": "Healthcare Demo Inventory Management App for multi-team workflow tracking",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
